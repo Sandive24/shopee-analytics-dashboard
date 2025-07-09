@@ -1,0 +1,40 @@
+# Virtual environment
+.venv/
+venv/
+ENV/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Jupyter Notebook checkpoints (kalau ada)
+.ipynb_checkpoints/
+
+# IDE/editor settings
+.vscode/
+.idea/
+*.swp
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Output files
+*.png
+*.jpg
+*.jpeg
+*.pdf
+*.svg
+
+# Data files (optional)
+data/raw/
+data/interim/
+data/processed/
+
+# Streamlit config (optional)
+.streamlit/secrets.toml
