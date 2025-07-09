@@ -38,3 +38,5 @@ data/processed/
 
 # Streamlit config (optional)
 .streamlit/secrets.toml
+
+scripts/
