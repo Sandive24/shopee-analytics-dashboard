@@ -1,0 +1,501 @@
+product_id,name,category,price,rating
+P0001,Illo Elektronik 912,Elektronik,612811,4.0
+P0002,Iure Fashion 882,Fashion,2217060,3.59
+P0003,Aliquid Fashion 443,Fashion,2849125,4.28
+P0004,Nostrum Elektronik 818,Elektronik,1854858,3.1
+P0005,Illo Makanan & Minuman 278,Makanan & Minuman,2832184,4.41
+P0006,Distinctio Rumah Tangga 261,Rumah Tangga,1534060,4.92
+P0007,Eos Kecantikan 825,Kecantikan,1202718,3.33
+P0008,Iusto Elektronik 549,Elektronik,1770974,3.96
+P0009,Explicabo Makanan & Minuman 802,Makanan & Minuman,2348531,5.0
+P0010,Eligendi Rumah Tangga 973,Rumah Tangga,2796914,4.63
+P0011,Labore Kecantikan 691,Kecantikan,1465274,4.56
+P0012,Culpa Elektronik 223,Elektronik,252673,4.19
+P0013,Quod Kecantikan 267,Kecantikan,90181,4.07
+P0014,Quaerat Makanan & Minuman 677,Makanan & Minuman,1523213,3.11
+P0015,Sit Makanan & Minuman 254,Makanan & Minuman,2529363,4.44
+P0016,Cupiditate Rumah Tangga 920,Rumah Tangga,927528,4.02
+P0017,Est Fashion 165,Fashion,471688,3.87
+P0018,Qui Rumah Tangga 764,Rumah Tangga,2976283,4.73
+P0019,Facilis Rumah Tangga 846,Rumah Tangga,1458729,4.82
+P0020,Consequatur Rumah Tangga 594,Rumah Tangga,2620863,4.85
+P0021,Blanditiis Makanan & Minuman 285,Makanan & Minuman,114806,3.41
+P0022,Magnam Elektronik 135,Elektronik,1324618,4.02
+P0023,Impedit Elektronik 638,Elektronik,2790382,4.18
+P0024,Culpa Elektronik 221,Elektronik,605178,3.63
+P0025,Fugit Rumah Tangga 604,Rumah Tangga,2569516,3.83
+P0026,Asperiores Rumah Tangga 190,Rumah Tangga,711818,3.04
+P0027,Assumenda Elektronik 472,Elektronik,2303565,3.4
+P0028,Facilis Fashion 408,Fashion,378663,4.5
+P0029,Placeat Rumah Tangga 103,Rumah Tangga,2019937,3.71
+P0030,Id Rumah Tangga 474,Rumah Tangga,69847,4.57
+P0031,Eum Makanan & Minuman 977,Makanan & Minuman,322692,3.4
+P0032,Laborum Fashion 162,Fashion,792141,3.43
+P0033,Doloribus Fashion 220,Fashion,1209914,3.68
+P0034,Minus Elektronik 664,Elektronik,1478347,3.47
+P0035,Illum Fashion 272,Fashion,1393821,4.57
+P0036,Id Makanan & Minuman 182,Makanan & Minuman,767019,4.58
+P0037,Itaque Rumah Tangga 302,Rumah Tangga,2405553,4.7
+P0038,Nobis Kecantikan 907,Kecantikan,1423122,4.96
+P0039,Ipsam Fashion 501,Fashion,2589494,3.16
+P0040,Ullam Fashion 198,Fashion,794638,4.09
+P0041,Ipsa Elektronik 596,Elektronik,2613908,3.7
+P0042,Blanditiis Fashion 907,Fashion,796018,4.28
+P0043,Libero Fashion 579,Fashion,2345744,3.12
+P0044,Repudiandae Kecantikan 971,Kecantikan,514308,3.4
+P0045,Laboriosam Elektronik 275,Elektronik,2916186,3.18
+P0046,Doloremque Fashion 889,Fashion,2224895,3.24
+P0047,Magni Makanan & Minuman 621,Makanan & Minuman,1898748,3.02
+P0048,Autem Kecantikan 594,Kecantikan,1203946,4.28
+P0049,Quidem Kecantikan 694,Kecantikan,2753128,3.2
+P0050,Iure Makanan & Minuman 181,Makanan & Minuman,79841,4.82
+P0051,Quibusdam Kecantikan 625,Kecantikan,2577061,4.82
+P0052,Quo Fashion 785,Fashion,2371483,4.6
+P0053,Sapiente Fashion 204,Fashion,2370639,5.0
+P0054,Ratione Rumah Tangga 485,Rumah Tangga,1763632,4.62
+P0055,Culpa Fashion 491,Fashion,342036,3.38
+P0056,Est Rumah Tangga 845,Rumah Tangga,792516,3.84
+P0057,Eos Elektronik 126,Elektronik,2114135,3.75
+P0058,Dicta Makanan & Minuman 518,Makanan & Minuman,258418,3.25
+P0059,Occaecati Kecantikan 755,Kecantikan,538499,3.61
+P0060,Tenetur Kecantikan 900,Kecantikan,2974893,4.76
+P0061,Mollitia Fashion 365,Fashion,101389,3.0
+P0062,Nihil Fashion 407,Fashion,2502882,4.86
+P0063,Quisquam Kecantikan 151,Kecantikan,2560941,4.17
+P0064,Dolore Fashion 860,Fashion,1179848,3.53
+P0065,Numquam Kecantikan 624,Kecantikan,1124930,4.49
+P0066,Iusto Elektronik 225,Elektronik,751000,4.39
+P0067,Illum Kecantikan 691,Kecantikan,2175016,3.02
+P0068,Reprehenderit Elektronik 207,Elektronik,2988591,3.56
+P0069,Eveniet Kecantikan 595,Kecantikan,1660946,4.04
+P0070,Dolorem Rumah Tangga 601,Rumah Tangga,1621900,3.08
+P0071,Eaque Makanan & Minuman 992,Makanan & Minuman,1576547,4.14
+P0072,Minima Rumah Tangga 128,Rumah Tangga,1945382,4.05
+P0073,Fugit Elektronik 906,Elektronik,1003744,4.14
+P0074,Quam Elektronik 519,Elektronik,316092,3.89
+P0075,Laboriosam Rumah Tangga 330,Rumah Tangga,2080945,3.17
+P0076,Sit Kecantikan 983,Kecantikan,1247980,4.57
+P0077,Deleniti Elektronik 131,Elektronik,2340791,4.85
+P0078,Dolore Kecantikan 630,Kecantikan,1544039,3.9
+P0079,Ducimus Elektronik 602,Elektronik,131635,3.59
+P0080,Ratione Makanan & Minuman 716,Makanan & Minuman,544564,4.88
+P0081,Dolor Fashion 422,Fashion,1024193,3.01
+P0082,Reiciendis Kecantikan 905,Kecantikan,1391680,3.79
+P0083,Odit Elektronik 273,Elektronik,1428170,4.23
+P0084,Quas Makanan & Minuman 516,Makanan & Minuman,657388,3.68
+P0085,Reprehenderit Kecantikan 944,Kecantikan,2909862,3.88
+P0086,Quis Makanan & Minuman 991,Makanan & Minuman,2412993,3.83
+P0087,Minima Rumah Tangga 499,Rumah Tangga,2426014,4.89
+P0088,Dolore Makanan & Minuman 966,Makanan & Minuman,351743,4.62
+P0089,Inventore Kecantikan 136,Kecantikan,2611418,3.96
+P0090,Recusandae Rumah Tangga 659,Rumah Tangga,263063,3.57
+P0091,Magni Fashion 506,Fashion,134678,4.14
+P0092,Exercitationem Makanan & Minuman 612,Makanan & Minuman,488703,3.65
+P0093,Non Rumah Tangga 384,Rumah Tangga,1443767,3.08
+P0094,Inventore Elektronik 516,Elektronik,889563,4.67
+P0095,Fugiat Fashion 452,Fashion,390879,4.32
+P0096,Saepe Kecantikan 658,Kecantikan,262838,4.75
+P0097,Tempore Fashion 226,Fashion,2270438,4.31
+P0098,Quas Makanan & Minuman 393,Makanan & Minuman,2935753,3.72
+P0099,Cumque Makanan & Minuman 917,Makanan & Minuman,61553,3.06
+P0100,Perspiciatis Fashion 846,Fashion,2967791,4.84
+P0101,Saepe Makanan & Minuman 582,Makanan & Minuman,1201657,3.75
+P0102,Sit Fashion 418,Fashion,2324168,3.99
+P0103,Aliquid Elektronik 220,Elektronik,1268100,4.48
+P0104,Temporibus Kecantikan 333,Kecantikan,885551,3.58
+P0105,Dicta Fashion 170,Fashion,2996196,3.72
+P0106,Deserunt Kecantikan 553,Kecantikan,1572617,4.24
+P0107,Voluptatibus Rumah Tangga 137,Rumah Tangga,2656630,4.45
+P0108,Odit Elektronik 845,Elektronik,1719351,3.99
+P0109,Nobis Kecantikan 491,Kecantikan,1066290,3.57
+P0110,Praesentium Rumah Tangga 551,Rumah Tangga,2036551,3.55
+P0111,Repellat Kecantikan 606,Kecantikan,1092380,4.66
+P0112,Deserunt Elektronik 160,Elektronik,2243245,4.36
+P0113,Unde Elektronik 499,Elektronik,2106051,4.78
+P0114,Aliquid Rumah Tangga 908,Rumah Tangga,2957111,4.99
+P0115,Dolore Elektronik 553,Elektronik,144086,4.63
+P0116,Quo Kecantikan 907,Kecantikan,112084,3.68
+P0117,Aliquid Elektronik 388,Elektronik,872179,4.72
+P0118,Fugit Fashion 441,Fashion,210229,3.36
+P0119,Laudantium Elektronik 206,Elektronik,2667146,4.82
+P0120,Veniam Elektronik 202,Elektronik,2371805,3.4
+P0121,Tempore Rumah Tangga 171,Rumah Tangga,543695,3.11
+P0122,A Fashion 285,Fashion,472290,4.6
+P0123,Quibusdam Elektronik 236,Elektronik,161774,4.16
+P0124,Aut Kecantikan 359,Kecantikan,622838,4.02
+P0125,Minus Elektronik 728,Elektronik,351566,4.96
+P0126,Ipsa Kecantikan 278,Kecantikan,767606,3.86
+P0127,Enim Makanan & Minuman 660,Makanan & Minuman,1408569,3.96
+P0128,Ea Elektronik 468,Elektronik,558262,3.42
+P0129,Deserunt Rumah Tangga 627,Rumah Tangga,804644,4.56
+P0130,Fugiat Fashion 721,Fashion,1590610,3.63
+P0131,Enim Rumah Tangga 120,Rumah Tangga,2283604,3.5
+P0132,Optio Fashion 317,Fashion,2244261,3.56
+P0133,Porro Rumah Tangga 186,Rumah Tangga,2355982,3.69
+P0134,Deserunt Rumah Tangga 856,Rumah Tangga,2019459,3.06
+P0135,Numquam Fashion 399,Fashion,41464,3.99
+P0136,Assumenda Makanan & Minuman 467,Makanan & Minuman,1472012,3.49
+P0137,Laborum Elektronik 687,Elektronik,2216098,4.66
+P0138,Nihil Rumah Tangga 414,Rumah Tangga,1115313,4.62
+P0139,Ipsa Rumah Tangga 696,Rumah Tangga,1180132,3.92
+P0140,Atque Makanan & Minuman 316,Makanan & Minuman,1649371,3.23
+P0141,Corporis Fashion 150,Fashion,800602,3.42
+P0142,Voluptatibus Makanan & Minuman 868,Makanan & Minuman,1984812,3.26
+P0143,Voluptas Kecantikan 674,Kecantikan,1873057,3.41
+P0144,Doloribus Kecantikan 465,Kecantikan,1798218,3.61
+P0145,Nihil Makanan & Minuman 233,Makanan & Minuman,2749839,4.08
+P0146,Dicta Fashion 364,Fashion,1298379,3.32
+P0147,Amet Rumah Tangga 610,Rumah Tangga,751282,4.13
+P0148,Ullam Makanan & Minuman 903,Makanan & Minuman,2877558,3.34
+P0149,Architecto Rumah Tangga 369,Rumah Tangga,224139,3.05
+P0150,Minus Rumah Tangga 898,Rumah Tangga,2319159,3.24
+P0151,Quo Rumah Tangga 612,Rumah Tangga,180524,4.95
+P0152,Veniam Fashion 534,Fashion,949823,3.21
+P0153,Id Fashion 437,Fashion,2595051,4.86
+P0154,Saepe Makanan & Minuman 325,Makanan & Minuman,1540847,3.28
+P0155,Asperiores Fashion 836,Fashion,28377,4.37
+P0156,Quisquam Rumah Tangga 153,Rumah Tangga,2804737,4.73
+P0157,Tenetur Fashion 413,Fashion,2598858,4.48
+P0158,Explicabo Kecantikan 506,Kecantikan,1400671,4.04
+P0159,Dolore Makanan & Minuman 522,Makanan & Minuman,1955460,3.17
+P0160,Eos Kecantikan 506,Kecantikan,2450977,4.58
+P0161,Sapiente Kecantikan 324,Kecantikan,173334,3.19
+P0162,Eveniet Elektronik 707,Elektronik,1924149,3.81
+P0163,At Fashion 388,Fashion,2458537,4.47
+P0164,Necessitatibus Kecantikan 300,Kecantikan,615435,4.22
+P0165,Sint Elektronik 259,Elektronik,2490741,4.47
+P0166,Est Makanan & Minuman 154,Makanan & Minuman,2943950,3.67
+P0167,Blanditiis Rumah Tangga 805,Rumah Tangga,91101,4.02
+P0168,Necessitatibus Rumah Tangga 795,Rumah Tangga,889343,4.52
+P0169,Vero Makanan & Minuman 197,Makanan & Minuman,1339236,4.98
+P0170,Voluptatum Kecantikan 814,Kecantikan,1002358,4.88
+P0171,Fugiat Fashion 964,Fashion,1921391,3.34
+P0172,Alias Elektronik 418,Elektronik,274394,3.76
+P0173,Dolore Kecantikan 327,Kecantikan,1742745,3.96
+P0174,Quia Elektronik 140,Elektronik,2590085,3.55
+P0175,Fuga Rumah Tangga 530,Rumah Tangga,2836702,4.42
+P0176,Aliquam Rumah Tangga 451,Rumah Tangga,786558,3.01
+P0177,Non Rumah Tangga 745,Rumah Tangga,1989016,3.71
+P0178,Velit Rumah Tangga 352,Rumah Tangga,1009333,4.1
+P0179,Sint Kecantikan 137,Kecantikan,1779025,4.84
+P0180,Occaecati Makanan & Minuman 470,Makanan & Minuman,908504,3.28
+P0181,Accusantium Kecantikan 641,Kecantikan,2318630,4.38
+P0182,Accusantium Makanan & Minuman 498,Makanan & Minuman,334258,3.72
+P0183,Nulla Rumah Tangga 485,Rumah Tangga,448359,3.36
+P0184,Eum Elektronik 649,Elektronik,1647634,4.09
+P0185,Nostrum Elektronik 212,Elektronik,2320423,3.68
+P0186,Incidunt Makanan & Minuman 283,Makanan & Minuman,1818297,3.53
+P0187,Quisquam Makanan & Minuman 632,Makanan & Minuman,1131808,4.0
+P0188,Nesciunt Elektronik 416,Elektronik,2764856,3.57
+P0189,Quo Elektronik 539,Elektronik,1838006,4.27
+P0190,Ad Makanan & Minuman 595,Makanan & Minuman,2224136,4.62
+P0191,Repellendus Kecantikan 315,Kecantikan,1102884,3.53
+P0192,Omnis Rumah Tangga 516,Rumah Tangga,1348472,4.42
+P0193,Nemo Elektronik 655,Elektronik,1667106,3.44
+P0194,Quae Rumah Tangga 294,Rumah Tangga,2626630,3.23
+P0195,Dolorum Rumah Tangga 681,Rumah Tangga,164251,4.91
+P0196,Beatae Fashion 839,Fashion,2612836,3.75
+P0197,Officia Kecantikan 557,Kecantikan,2356321,3.67
+P0198,Sunt Elektronik 289,Elektronik,1489863,4.45
+P0199,Aliquam Kecantikan 887,Kecantikan,50098,4.56
+P0200,Saepe Fashion 903,Fashion,1235484,4.97
+P0201,Harum Kecantikan 359,Kecantikan,232597,4.06
+P0202,Illo Elektronik 374,Elektronik,823913,3.18
+P0203,Soluta Fashion 726,Fashion,1292601,4.52
+P0204,Cum Makanan & Minuman 840,Makanan & Minuman,1295116,4.96
+P0205,Sapiente Kecantikan 290,Kecantikan,2323021,3.02
+P0206,Non Makanan & Minuman 302,Makanan & Minuman,1777945,3.1
+P0207,Sunt Elektronik 236,Elektronik,91844,3.57
+P0208,Cupiditate Makanan & Minuman 466,Makanan & Minuman,2118983,3.14
+P0209,Maxime Rumah Tangga 890,Rumah Tangga,1963909,4.0
+P0210,Nam Rumah Tangga 371,Rumah Tangga,424512,4.56
+P0211,Debitis Makanan & Minuman 598,Makanan & Minuman,1976952,4.89
+P0212,Deserunt Makanan & Minuman 195,Makanan & Minuman,1933071,4.86
+P0213,Sapiente Fashion 560,Fashion,2094931,4.35
+P0214,Molestias Kecantikan 626,Kecantikan,543848,4.09
+P0215,Molestiae Elektronik 703,Elektronik,372195,3.22
+P0216,Porro Kecantikan 598,Kecantikan,2220750,3.29
+P0217,Ratione Makanan & Minuman 523,Makanan & Minuman,651363,3.07
+P0218,Suscipit Fashion 885,Fashion,541171,4.22
+P0219,Alias Makanan & Minuman 989,Makanan & Minuman,68235,3.36
+P0220,Placeat Elektronik 131,Elektronik,1588044,4.38
+P0221,Cum Elektronik 447,Elektronik,1627658,3.67
+P0222,Tenetur Makanan & Minuman 876,Makanan & Minuman,1418677,4.0
+P0223,Et Makanan & Minuman 498,Makanan & Minuman,1988018,4.66
+P0224,Fugit Rumah Tangga 620,Rumah Tangga,2067655,3.22
+P0225,Maxime Elektronik 447,Elektronik,807003,4.65
+P0226,Eveniet Fashion 151,Fashion,61704,4.62
+P0227,Autem Elektronik 513,Elektronik,601970,4.4
+P0228,Dicta Elektronik 894,Elektronik,243088,3.23
+P0229,Officiis Rumah Tangga 325,Rumah Tangga,560929,4.75
+P0230,Libero Fashion 740,Fashion,2310994,4.29
+P0231,Error Elektronik 338,Elektronik,355196,4.95
+P0232,Rerum Kecantikan 290,Kecantikan,2790086,4.65
+P0233,Repudiandae Makanan & Minuman 125,Makanan & Minuman,682118,3.14
+P0234,Quo Kecantikan 252,Kecantikan,700732,3.51
+P0235,Voluptatibus Kecantikan 334,Kecantikan,843133,4.46
+P0236,Eveniet Kecantikan 360,Kecantikan,1589685,4.27
+P0237,Repellendus Fashion 536,Fashion,837995,3.09
+P0238,Aperiam Kecantikan 330,Kecantikan,1919685,3.33
+P0239,Dolorum Elektronik 987,Elektronik,901336,3.41
+P0240,Iure Makanan & Minuman 210,Makanan & Minuman,2607125,3.71
+P0241,Architecto Elektronik 464,Elektronik,1874139,3.12
+P0242,Animi Makanan & Minuman 878,Makanan & Minuman,2330016,4.07
+P0243,Mollitia Rumah Tangga 854,Rumah Tangga,2010066,4.84
+P0244,Occaecati Kecantikan 964,Kecantikan,1924841,4.38
+P0245,Qui Rumah Tangga 638,Rumah Tangga,2102845,4.55
+P0246,Tempore Makanan & Minuman 456,Makanan & Minuman,826350,4.38
+P0247,Esse Fashion 227,Fashion,64230,3.05
+P0248,Iusto Kecantikan 783,Kecantikan,1721354,3.98
+P0249,Accusantium Fashion 551,Fashion,474984,3.8
+P0250,Blanditiis Rumah Tangga 497,Rumah Tangga,2750832,3.06
+P0251,Corporis Elektronik 650,Elektronik,1988888,4.55
+P0252,Nemo Makanan & Minuman 373,Makanan & Minuman,310948,3.89
+P0253,Veniam Elektronik 919,Elektronik,797428,3.18
+P0254,Autem Makanan & Minuman 959,Makanan & Minuman,802511,3.58
+P0255,Provident Kecantikan 912,Kecantikan,294798,3.79
+P0256,Rem Makanan & Minuman 248,Makanan & Minuman,2744638,3.61
+P0257,Quaerat Makanan & Minuman 372,Makanan & Minuman,672078,3.07
+P0258,Officiis Kecantikan 186,Kecantikan,2905935,3.01
+P0259,Saepe Rumah Tangga 663,Rumah Tangga,2644646,4.56
+P0260,Itaque Makanan & Minuman 118,Makanan & Minuman,1128065,3.84
+P0261,Repudiandae Kecantikan 908,Kecantikan,1999186,4.75
+P0262,Molestias Makanan & Minuman 969,Makanan & Minuman,1639628,4.0
+P0263,Architecto Elektronik 678,Elektronik,1170967,4.5
+P0264,Similique Rumah Tangga 488,Rumah Tangga,1846742,3.69
+P0265,Sint Rumah Tangga 514,Rumah Tangga,2082898,4.53
+P0266,Et Makanan & Minuman 235,Makanan & Minuman,982645,3.7
+P0267,Sint Rumah Tangga 552,Rumah Tangga,2572414,3.08
+P0268,Ab Elektronik 895,Elektronik,2784153,3.33
+P0269,Earum Rumah Tangga 920,Rumah Tangga,180083,3.95
+P0270,Possimus Kecantikan 513,Kecantikan,1165353,4.8
+P0271,Facere Elektronik 619,Elektronik,2075987,4.08
+P0272,Minus Makanan & Minuman 163,Makanan & Minuman,2704091,3.82
+P0273,Mollitia Rumah Tangga 766,Rumah Tangga,1350049,4.9
+P0274,Temporibus Makanan & Minuman 256,Makanan & Minuman,1236014,3.32
+P0275,Maxime Elektronik 235,Elektronik,1965135,4.18
+P0276,Eligendi Rumah Tangga 745,Rumah Tangga,1940370,3.63
+P0277,Sunt Rumah Tangga 146,Rumah Tangga,1734008,4.11
+P0278,Amet Elektronik 201,Elektronik,852064,3.82
+P0279,Sunt Rumah Tangga 259,Rumah Tangga,2795321,3.72
+P0280,Rem Elektronik 255,Elektronik,373308,3.95
+P0281,Exercitationem Fashion 409,Fashion,1934249,3.6
+P0282,Occaecati Makanan & Minuman 860,Makanan & Minuman,918770,3.58
+P0283,Illum Rumah Tangga 744,Rumah Tangga,909355,4.82
+P0284,Cumque Kecantikan 845,Kecantikan,2142039,3.33
+P0285,Magnam Rumah Tangga 435,Rumah Tangga,162174,3.18
+P0286,Hic Fashion 143,Fashion,2039114,3.08
+P0287,Cum Makanan & Minuman 492,Makanan & Minuman,1991872,3.19
+P0288,Velit Fashion 153,Fashion,2194471,4.63
+P0289,Nisi Kecantikan 831,Kecantikan,1016401,3.41
+P0290,Recusandae Elektronik 409,Elektronik,2188085,4.98
+P0291,Nulla Elektronik 450,Elektronik,2413363,4.71
+P0292,Repellat Elektronik 223,Elektronik,2899894,3.24
+P0293,Perspiciatis Makanan & Minuman 351,Makanan & Minuman,402249,3.14
+P0294,Nobis Kecantikan 815,Kecantikan,1639796,3.05
+P0295,Est Fashion 458,Fashion,681046,4.0
+P0296,Quos Elektronik 128,Elektronik,123121,4.83
+P0297,Delectus Fashion 451,Fashion,1774752,3.41
+P0298,Velit Makanan & Minuman 661,Makanan & Minuman,667501,3.25
+P0299,Facere Makanan & Minuman 709,Makanan & Minuman,421544,4.43
+P0300,Delectus Elektronik 565,Elektronik,81995,3.94
+P0301,Sunt Rumah Tangga 600,Rumah Tangga,2110072,4.98
+P0302,Vel Elektronik 643,Elektronik,2117677,3.48
+P0303,Minus Kecantikan 841,Kecantikan,93202,4.3
+P0304,Reiciendis Fashion 323,Fashion,2180380,4.48
+P0305,Aliquam Kecantikan 339,Kecantikan,434296,3.98
+P0306,Veniam Elektronik 134,Elektronik,1691969,4.73
+P0307,Nesciunt Makanan & Minuman 198,Makanan & Minuman,1938214,4.3
+P0308,Tenetur Fashion 194,Fashion,233605,4.72
+P0309,Non Makanan & Minuman 611,Makanan & Minuman,592122,4.69
+P0310,Culpa Kecantikan 969,Kecantikan,1717199,4.58
+P0311,Nihil Elektronik 648,Elektronik,2795549,4.29
+P0312,Porro Elektronik 159,Elektronik,1658132,4.91
+P0313,Architecto Elektronik 351,Elektronik,2930997,3.42
+P0314,Velit Fashion 887,Fashion,1937343,3.55
+P0315,Et Fashion 328,Fashion,2838027,4.33
+P0316,Id Fashion 257,Fashion,1656612,4.11
+P0317,Aspernatur Makanan & Minuman 742,Makanan & Minuman,710596,3.13
+P0318,Animi Fashion 579,Fashion,1415714,4.79
+P0319,A Kecantikan 904,Kecantikan,1227935,4.37
+P0320,Cum Elektronik 235,Elektronik,1605897,4.49
+P0321,Voluptates Rumah Tangga 242,Rumah Tangga,2084478,4.01
+P0322,Reiciendis Fashion 292,Fashion,98321,4.72
+P0323,Animi Fashion 788,Fashion,495126,4.84
+P0324,Cumque Fashion 269,Fashion,2102532,4.9
+P0325,Eius Rumah Tangga 759,Rumah Tangga,740251,3.63
+P0326,Minus Elektronik 602,Elektronik,182750,3.44
+P0327,Molestiae Fashion 489,Fashion,598284,3.26
+P0328,Voluptates Fashion 769,Fashion,552375,3.93
+P0329,Officiis Kecantikan 958,Kecantikan,1973537,4.94
+P0330,Magnam Makanan & Minuman 981,Makanan & Minuman,2984960,4.89
+P0331,Nisi Kecantikan 343,Kecantikan,2484189,4.0
+P0332,Quasi Makanan & Minuman 529,Makanan & Minuman,436089,3.92
+P0333,Facere Makanan & Minuman 584,Makanan & Minuman,1083651,4.33
+P0334,Odit Elektronik 831,Elektronik,2551311,4.67
+P0335,Recusandae Elektronik 129,Elektronik,2787272,4.93
+P0336,Nostrum Makanan & Minuman 806,Makanan & Minuman,997374,3.75
+P0337,Eligendi Makanan & Minuman 955,Makanan & Minuman,2322444,3.05
+P0338,Consequatur Rumah Tangga 431,Rumah Tangga,2133953,4.36
+P0339,Veritatis Rumah Tangga 559,Rumah Tangga,1433085,3.52
+P0340,Delectus Kecantikan 799,Kecantikan,2270241,4.77
+P0341,Id Elektronik 791,Elektronik,1043558,4.45
+P0342,Ducimus Fashion 581,Fashion,2912748,4.63
+P0343,Cumque Rumah Tangga 777,Rumah Tangga,1571744,4.48
+P0344,Quasi Fashion 218,Fashion,2481485,5.0
+P0345,Aliquam Makanan & Minuman 797,Makanan & Minuman,1373018,4.54
+P0346,Illo Fashion 936,Fashion,2435805,3.81
+P0347,Quaerat Fashion 257,Fashion,1373297,3.67
+P0348,Ducimus Rumah Tangga 174,Rumah Tangga,2086325,4.41
+P0349,At Fashion 708,Fashion,2395957,3.87
+P0350,Cum Fashion 224,Fashion,559603,3.73
+P0351,Illum Rumah Tangga 359,Rumah Tangga,2795934,4.34
+P0352,Libero Fashion 202,Fashion,1901988,4.05
+P0353,Accusantium Fashion 615,Fashion,1492518,4.35
+P0354,Corporis Elektronik 862,Elektronik,2341942,3.13
+P0355,Fugiat Fashion 942,Fashion,1975410,3.3
+P0356,Velit Makanan & Minuman 887,Makanan & Minuman,1306923,3.2
+P0357,Quo Rumah Tangga 636,Rumah Tangga,819094,3.19
+P0358,Necessitatibus Elektronik 767,Elektronik,2032780,4.79
+P0359,Aspernatur Fashion 941,Fashion,2564206,3.15
+P0360,Occaecati Kecantikan 776,Kecantikan,218208,4.99
+P0361,Molestias Makanan & Minuman 921,Makanan & Minuman,1206744,4.29
+P0362,Architecto Makanan & Minuman 339,Makanan & Minuman,1026623,3.28
+P0363,Sint Rumah Tangga 579,Rumah Tangga,2097512,4.25
+P0364,Illo Kecantikan 133,Kecantikan,1772055,3.51
+P0365,Aspernatur Kecantikan 174,Kecantikan,2073044,3.57
+P0366,Dolore Rumah Tangga 829,Rumah Tangga,2308536,4.72
+P0367,Tenetur Fashion 418,Fashion,2950862,3.79
+P0368,Dolore Fashion 298,Fashion,1738840,3.1
+P0369,Labore Kecantikan 470,Kecantikan,504989,3.53
+P0370,Illo Makanan & Minuman 160,Makanan & Minuman,1320042,3.73
+P0371,Nulla Makanan & Minuman 710,Makanan & Minuman,2924854,3.6
+P0372,Molestias Rumah Tangga 883,Rumah Tangga,2726591,3.46
+P0373,Atque Fashion 560,Fashion,1266069,4.87
+P0374,Dicta Fashion 311,Fashion,200901,3.72
+P0375,Ipsum Elektronik 818,Elektronik,1160520,4.79
+P0376,Ipsa Fashion 339,Fashion,840921,4.44
+P0377,Sed Makanan & Minuman 330,Makanan & Minuman,367050,3.16
+P0378,Quod Kecantikan 994,Kecantikan,1405602,3.91
+P0379,Dicta Kecantikan 862,Kecantikan,1403463,3.95
+P0380,Dolorem Elektronik 246,Elektronik,802055,3.4
+P0381,A Kecantikan 251,Kecantikan,1088393,4.04
+P0382,Eaque Kecantikan 582,Kecantikan,2857095,4.8
+P0383,Rem Rumah Tangga 652,Rumah Tangga,2290453,4.29
+P0384,Quisquam Makanan & Minuman 484,Makanan & Minuman,2601515,3.35
+P0385,Necessitatibus Kecantikan 900,Kecantikan,2229728,3.52
+P0386,Temporibus Kecantikan 177,Kecantikan,2236665,3.2
+P0387,Iure Makanan & Minuman 865,Makanan & Minuman,2108757,3.02
+P0388,Fuga Fashion 853,Fashion,793086,3.01
+P0389,Quae Makanan & Minuman 361,Makanan & Minuman,311810,4.01
+P0390,Facere Kecantikan 854,Kecantikan,353852,3.18
+P0391,Magnam Makanan & Minuman 469,Makanan & Minuman,2513155,3.18
+P0392,Unde Fashion 177,Fashion,706383,4.26
+P0393,Aliquid Makanan & Minuman 723,Makanan & Minuman,2626530,3.31
+P0394,Deserunt Fashion 567,Fashion,1222593,3.51
+P0395,Dolorem Kecantikan 269,Kecantikan,1416385,4.53
+P0396,Amet Makanan & Minuman 940,Makanan & Minuman,2697865,4.32
+P0397,Dolor Kecantikan 383,Kecantikan,350608,4.3
+P0398,Cumque Elektronik 861,Elektronik,2751919,4.8
+P0399,Sapiente Elektronik 736,Elektronik,832068,4.73
+P0400,Rem Makanan & Minuman 724,Makanan & Minuman,56936,4.97
+P0401,Mollitia Kecantikan 891,Kecantikan,2739108,4.53
+P0402,Eum Fashion 249,Fashion,706388,4.41
+P0403,Doloribus Kecantikan 864,Kecantikan,1641547,4.07
+P0404,Unde Fashion 245,Fashion,1936356,3.88
+P0405,Provident Fashion 108,Fashion,2404934,3.62
+P0406,Pariatur Elektronik 504,Elektronik,2168199,4.29
+P0407,At Fashion 991,Fashion,762902,3.94
+P0408,Hic Makanan & Minuman 771,Makanan & Minuman,2483193,4.89
+P0409,Repellendus Makanan & Minuman 111,Makanan & Minuman,2869544,4.88
+P0410,Corporis Rumah Tangga 201,Rumah Tangga,1088245,4.62
+P0411,Impedit Kecantikan 920,Kecantikan,2012992,4.56
+P0412,Enim Kecantikan 833,Kecantikan,694275,4.96
+P0413,Perferendis Elektronik 975,Elektronik,2218925,4.0
+P0414,Occaecati Kecantikan 899,Kecantikan,1149792,3.59
+P0415,Molestias Makanan & Minuman 760,Makanan & Minuman,1098058,3.71
+P0416,Explicabo Rumah Tangga 908,Rumah Tangga,119048,3.13
+P0417,Iure Elektronik 128,Elektronik,2804826,3.27
+P0418,In Makanan & Minuman 888,Makanan & Minuman,944379,3.37
+P0419,Corrupti Elektronik 748,Elektronik,529117,3.05
+P0420,Facere Fashion 927,Fashion,2240564,4.57
+P0421,Accusamus Rumah Tangga 299,Rumah Tangga,2653409,3.14
+P0422,Delectus Fashion 915,Fashion,1839269,4.45
+P0423,Cum Kecantikan 832,Kecantikan,2500717,3.45
+P0424,Nemo Kecantikan 603,Kecantikan,1987140,4.87
+P0425,Sed Elektronik 378,Elektronik,477471,3.88
+P0426,Corporis Rumah Tangga 820,Rumah Tangga,2260502,3.05
+P0427,Quae Elektronik 704,Elektronik,787078,4.02
+P0428,Exercitationem Kecantikan 902,Kecantikan,2891205,3.41
+P0429,Voluptate Kecantikan 158,Kecantikan,1539284,4.52
+P0430,Quia Fashion 559,Fashion,293544,3.12
+P0431,Natus Fashion 747,Fashion,59996,4.65
+P0432,Quos Kecantikan 669,Kecantikan,2465140,4.34
+P0433,Aliquam Fashion 311,Fashion,1527793,3.55
+P0434,Rem Elektronik 214,Elektronik,2262408,4.55
+P0435,Quod Makanan & Minuman 854,Makanan & Minuman,2910649,3.98
+P0436,Officia Elektronik 346,Elektronik,1633124,3.85
+P0437,Quam Rumah Tangga 101,Rumah Tangga,1348631,4.91
+P0438,Rem Fashion 690,Fashion,611104,3.56
+P0439,Facere Rumah Tangga 911,Rumah Tangga,1782244,3.22
+P0440,Quos Makanan & Minuman 297,Makanan & Minuman,401781,4.03
+P0441,Quaerat Elektronik 305,Elektronik,325965,4.34
+P0442,Aperiam Elektronik 270,Elektronik,2116083,4.09
+P0443,Corrupti Kecantikan 419,Kecantikan,2324474,4.36
+P0444,Laudantium Elektronik 640,Elektronik,2403549,3.96
+P0445,Laboriosam Fashion 618,Fashion,1162871,4.63
+P0446,Sit Kecantikan 725,Kecantikan,932980,4.77
+P0447,Saepe Kecantikan 253,Kecantikan,2796726,4.44
+P0448,Voluptatum Fashion 779,Fashion,1408613,4.29
+P0449,Tempora Fashion 923,Fashion,2632665,4.72
+P0450,Porro Makanan & Minuman 130,Makanan & Minuman,1700233,4.5
+P0451,Nisi Elektronik 128,Elektronik,333662,4.31
+P0452,Voluptate Kecantikan 748,Kecantikan,2080232,3.97
+P0453,Nihil Fashion 272,Fashion,1283037,3.44
+P0454,Delectus Rumah Tangga 552,Rumah Tangga,1848201,3.85
+P0455,Modi Kecantikan 739,Kecantikan,1042007,3.28
+P0456,Quaerat Elektronik 630,Elektronik,2427199,4.82
+P0457,Suscipit Kecantikan 594,Kecantikan,2263693,3.0
+P0458,Suscipit Rumah Tangga 300,Rumah Tangga,1147943,4.06
+P0459,Rem Elektronik 563,Elektronik,636045,3.5
+P0460,Quod Rumah Tangga 317,Rumah Tangga,1628264,4.36
+P0461,Commodi Kecantikan 909,Kecantikan,1673271,4.01
+P0462,Sunt Rumah Tangga 507,Rumah Tangga,643029,3.81
+P0463,Facere Rumah Tangga 276,Rumah Tangga,2331933,3.84
+P0464,Voluptas Fashion 758,Fashion,267432,4.77
+P0465,Consequatur Rumah Tangga 549,Rumah Tangga,1659272,4.79
+P0466,Aliquam Fashion 175,Fashion,1550345,4.97
+P0467,Doloremque Kecantikan 975,Kecantikan,1120253,4.82
+P0468,Impedit Elektronik 117,Elektronik,255401,3.26
+P0469,Impedit Rumah Tangga 323,Rumah Tangga,98147,3.72
+P0470,Asperiores Fashion 213,Fashion,103627,3.27
+P0471,Neque Rumah Tangga 933,Rumah Tangga,1097781,3.67
+P0472,Nobis Elektronik 668,Elektronik,743270,4.94
+P0473,Deserunt Elektronik 311,Elektronik,439848,3.22
+P0474,Placeat Elektronik 614,Elektronik,90529,3.12
+P0475,Voluptatibus Makanan & Minuman 209,Makanan & Minuman,2931598,4.84
+P0476,Laboriosam Makanan & Minuman 664,Makanan & Minuman,1933026,4.69
+P0477,Corrupti Kecantikan 128,Kecantikan,2173176,3.17
+P0478,Natus Rumah Tangga 305,Rumah Tangga,2141093,3.49
+P0479,Quae Fashion 266,Fashion,2673331,4.91
+P0480,Odit Kecantikan 478,Kecantikan,2490263,3.52
+P0481,Occaecati Fashion 429,Fashion,1656305,4.69
+P0482,Animi Elektronik 410,Elektronik,1179781,3.61
+P0483,Necessitatibus Makanan & Minuman 121,Makanan & Minuman,187697,3.33
+P0484,Dolores Elektronik 697,Elektronik,128557,4.96
+P0485,At Fashion 131,Fashion,582670,3.08
+P0486,Atque Makanan & Minuman 981,Makanan & Minuman,2991181,3.68
+P0487,Perspiciatis Elektronik 871,Elektronik,819941,3.84
+P0488,Velit Kecantikan 613,Kecantikan,1252495,3.56
+P0489,Nobis Elektronik 510,Elektronik,1024317,4.98
+P0490,Neque Makanan & Minuman 874,Makanan & Minuman,1425054,4.73
+P0491,Voluptate Fashion 934,Fashion,1384865,3.74
+P0492,Iure Rumah Tangga 872,Rumah Tangga,1043752,4.37
+P0493,Laborum Elektronik 151,Elektronik,2328526,3.23
+P0494,Dolorum Elektronik 938,Elektronik,2925973,3.67
+P0495,Assumenda Makanan & Minuman 696,Makanan & Minuman,1432296,3.21
+P0496,Modi Kecantikan 487,Kecantikan,2931444,3.04
+P0497,Quos Kecantikan 515,Kecantikan,945636,3.64
+P0498,Eveniet Rumah Tangga 126,Rumah Tangga,822619,3.01
+P0499,Architecto Kecantikan 210,Kecantikan,2180244,4.15
+P0500,Praesentium Elektronik 542,Elektronik,2775440,3.04
