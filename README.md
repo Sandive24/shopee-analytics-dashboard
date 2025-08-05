@@ -78,7 +78,7 @@ shopee-analytics/
    ```
 
 5. **Akses dashboard:**
-   Buka browser ke: [http://localhost:8501](http://localhost:8501)
+   Buka browser ke: [Dashboard](anikhsan.streamlit.app)
 
 ---
 
